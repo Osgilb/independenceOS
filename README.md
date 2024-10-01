@@ -38,4 +38,4 @@ This project was created on **October 1, 2024**, my country's Independence Day, 
 
 ### Author
 
-- GitHub: [Your GitHub Username](https://github.com/osgilb)
+- GitHub: [Osgilb](https://github.com/osgilb)
