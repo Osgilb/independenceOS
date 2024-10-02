@@ -1,4 +1,4 @@
-# Fitness App UI Design
+# Workout Tracker
 
 This repository contains the source code for a fitness app UI design I worked on, showcased in the provided screenshot. The design was created on my country's Independence Day, and I wanted to save this project for future reference, as it marks both a personal coding achievement and a memorable day.
 
